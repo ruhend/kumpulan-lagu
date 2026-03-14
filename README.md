@@ -1,4 +1,4 @@
-Jangan git clonw filenya bisa korup
+Jangan di git clone filenya bisa korup
 tapi 
 Download as zip
 atau
